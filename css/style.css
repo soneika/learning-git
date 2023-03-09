@@ -16,3 +16,8 @@ section {
     font-style: italic;
     font-size: 0.85rem;
 }
+
+.ref-link{
+    margin-top: 1rem;  
+    padding: 0.5rem 0; 
+}
